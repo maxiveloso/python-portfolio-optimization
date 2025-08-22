@@ -4,13 +4,13 @@
 ### My GitHub Details
 - **GitHub Username:** maxiveloso
 - **Repo Name:** python-portfolio-optimization
-- **Notebook Path:** /portfolio-optimization-case-stuyd.ipynb
+- **Notebook Path:** /portfolio-optimization-case-study.ipynb
 
 ### Lanza el Notebook en la Nube
 
 | Binder | Google Colab |
 | :---: | :---: |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxiveloso/python-portfolio-optimization/main?filepath=portfolio-optimization-case-stuyd.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxiveloso/python-portfolio-optimization/blob/main/portfolio-optimization-case-stuyd.ipynb) |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxiveloso/python-portfolio-optimization/main?filepath=portfolio-optimization-case-study.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxiveloso/python-portfolio-optimization/blob/main/portfolio-optimization-case-study.ipynb) |
 
 ---
 ### How to run
