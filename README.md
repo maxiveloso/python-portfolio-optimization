@@ -10,7 +10,7 @@
 
 | Binder | Google Colab |
 | :---: | :---: |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxiveloso/python-portfolio-optimization/HEAD?filepath=python-portfolio-optimization/portfolio-optimization-case-stuyd.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxiveloso/python-portfolio-optimization/blob/HEAD/python-portfolio-optimization/portfolio-optimization-case-stuyd.ipynb) |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxiveloso/python-portfolio-optimization/main?filepath=python-portfolio-optimization/portfolio-optimization-case-stuyd.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxiveloso/python-portfolio-optimization/blob/main/python-portfolio-optimization/portfolio-optimization-case-stuyd.ipynb) |
 
 ---
 ### How to run
