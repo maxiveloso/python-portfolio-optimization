@@ -13,7 +13,7 @@
 
 **Business Challenge:** Traditional mean-variance optimization approaches have proven insufficient in capturing the complex risk dynamics of technology stocks, particularly during periods of market stress. The firm's existing portfolio construction methodology lacks sophisticated risk parity considerations and fails to provide adequate out-of-sample validation, leading to suboptimal client outcomes and potential regulatory scrutiny.
 
-**Objectives:** This analysis implements an institutional-grade portfolio optimization framework incorporating advanced risk metrics (Sortino ratio, Value-at-Risk, Conditional VaR), risk parity methodology, and walk-forward validation techniques. The primary goal is to enhance risk-adjusted returns while providing comprehensive performance attribution and scenario analysis for the technology stock universe comprising NVIDIA (NVDA), Tesla (TSLA), Apple (AAPL), and Microsoft (MSFT).
+**Objectives:** This analysis implements an institutional-grade portfolio optimization framework incorporating advanced risk metrics (Sortino ratio, Value-at-Risk, Conditional VaR), risk parity methodology, and walk-forward validation techniques. The primary goal is to enhance risk-adjusted returns while providing comprehensive performance attribution and scenario analysis for a given technology stock universe.
 
 ## **Data Structure Overview**
 
