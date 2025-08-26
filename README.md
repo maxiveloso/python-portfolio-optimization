@@ -6,8 +6,6 @@
 | :---: | :---: |
 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxiveloso/python-portfolio-optimization/main?filepath=portfolio_optimization_case_study.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxiveloso/python-portfolio-optimization/blob/main/portfolio_optimization_case_study.ipynb) |
 
-#### Author
-AI-assisted implementation by Maximiliano Veloso
 
 ---
 
@@ -224,9 +222,3 @@ These figures support technical diagnostics and communication during reviews. In
 - Seeds fixed (RNG_SEED)
 - Deterministic selection/optimization flows where possible
 - Version-locked parameters in the configuration section
-
----
-
-### Contact
-
-For questions or to discuss extensions (e.g., factor models, turnover control, or regime detection), please reach out via the repository’s issue tracker or LinkedIn.
